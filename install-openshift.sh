@@ -3,8 +3,8 @@
 ## see: https://www.youtube.com/watch?v=-OOnGK-XeVY
 
 DOMAIN=${DOMAIN:=techdope.io}
-USERNAME=${USERNAME:=gshipley}
-PASSWORD=${PASSWORD:=password}
+USERNAME=${USERNAME:=irojas}
+PASSWORD=${PASSWORD:=root}
 
 
 yum install -y epel-release
